@@ -2,21 +2,22 @@
     {
         "id": 1,
         "name": "Facebook",
-        "url": "https://www.facebook.com/groups/estk-digital-club/"
+        "url": "https://www.facebook.com/groups/club.digital.estk/"
     },
     {
         "id": 2,
         "name": "Instagram",
-        "url": "https://www.instagram.com/estk-digital-club/"
+        "url": "https://www.instagram.com/club.digital.estk/"
     },
     {
         "id": 3,
         "name": "Twitter",
-        "url": "https://twitter.com/estk-digital-club/status/"
+        "url": "https://twitter.com/club.digital.estk/"
     },
     {
         "id": 4,
         "name": "YouTube",
-        "url": "https://www.youtube.com/estk-digital-club/"
+        "url": "https://www.youtube.com/club.digital.estk/"
     }
+
 ]
